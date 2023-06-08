@@ -70,7 +70,6 @@ export default function Home(){
                     <Text style={styles.textcont}>0</Text>
                 </View>
             </View>
-             
             <FlatList 
                 data={tasks}
                 keyExtractor={item => item}

@@ -120,13 +120,11 @@ export const styles = StyleSheet.create({
 
     empty:{
         marginLeft:24,
-        marginRight: 24,
-        
+        marginRight: 24,     
         marginTop:20,
         padding:5
 
     },
-
     textemptybold:{
         fontWeight: 'bold',
         fontSize:14,
